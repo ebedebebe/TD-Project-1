@@ -163,6 +163,12 @@ a.social:hover {
 .clearfix {
   clear: both;
 }
+/* Style for images on Hobby page*/
+.hobby-image {
+  width: 200px;
+  height: 200px;
+
+}
 
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
